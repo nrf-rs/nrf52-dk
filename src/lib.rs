@@ -3,9 +3,6 @@
 //!
 #![no_std]
 
-extern crate cortex_m;
-
-extern crate cortex_m_rt;
 pub extern crate nrf52832_hal;
 
 /// Exports traits that are usually needed when using this crate
